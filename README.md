@@ -1,4 +1,4 @@
-# Pubwriter
+# PubWriter
 
 PubWriter leverages desktop [Sync](https://pubwriter.com/sync), Markdown, Bootstrap, custom CSS, and javascript to give you a powerful static website generator to build one-of-kind websites that can be adapted for almost any purpose. It's introduces an effortless 'save-to-publish' approach where everything you create is automatically backed up while simultaneously published to your website. If you're frustrated with the limitations of the platform you are currently on. It is similar to frameworks like Hugo, Gatsby, Jekyll - yet doesn't require nearly the depth of coder knowledge.
 
